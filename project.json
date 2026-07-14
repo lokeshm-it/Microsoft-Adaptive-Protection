@@ -1,0 +1,32 @@
+{
+  "projectNumber": 18,
+  "projectName": "Microsoft Purview Adaptive Protection",
+  "series": "Microsoft Purview Zero Trust Lab Series",
+  "author": "Lokesh Karnam",
+  "description": "Configuration and PowerShell verification of Microsoft Purview Adaptive Protection, connecting Insider Risk Management risk levels to Data Loss Prevention and Conditional Access enforcement.",
+  "technologyStack": [
+    "Microsoft Purview",
+    "Insider Risk Management",
+    "Adaptive Protection",
+    "Microsoft Purview DLP",
+    "Microsoft Entra ID",
+    "Conditional Access",
+    "Microsoft 365",
+    "PowerShell"
+  ],
+  "difficulty": "Intermediate",
+  "estimatedTime": "30-45 minutes",
+  "status": "Validated",
+  "evidenceSource": "images/ (7 screenshots)",
+  "relatedProjects": [
+    "Project-16-Microsoft-Information-Barriers",
+    "Project-17-Microsoft-Insider-Risk-Management"
+  ],
+  "certificationMapping": [
+    "SC-400",
+    "SC-300",
+    "SC-200"
+  ],
+  "license": "MIT",
+  "lastUpdated": "2026-07-08"
+}
