@@ -177,3 +177,8 @@ Project-18-Adaptive-Protection/
 ---
 
 *Documentation authored strictly from the seven screenshots in `images/`. No configuration is described that is not directly visible in the referenced image.*
+
+
+## Disclaimer
+
+This repository documents a Microsoft Purview Adaptive Protection lab configuration for portfolio and educational purposes. Screenshots reference a non-production sandbox tenant. No production customer data, credentials, or secrets are included in this repository.
